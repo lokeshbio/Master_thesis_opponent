@@ -14,6 +14,7 @@ date: "last-modified"
  - Can you explain the difference or circumstances when proteomics or transcriptomics could be beneficial?
  - PTM, how are these detected in these analysis?
  - Window sizes, how do they influence and work?
+
  - computational demultiplexing: can you describe what it is more and how it improves sensitivity and detection? 
  - how does in silico generation of library work for Breast Cancer in DIA-NN pipeline?
  - how does variable window perform better?
@@ -23,3 +24,4 @@ date: "last-modified"
    - Java
    - docker
    - pyhton3
+ - Suggestions to use `argparse`
